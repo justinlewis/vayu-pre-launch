@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: From your <br> &nbsp;&nbsp;&nbsp;&nbsp; <b style="font-style:italic;">- Daily Life</b>
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Váyu packs stand out in a crowd while hauling what you need.

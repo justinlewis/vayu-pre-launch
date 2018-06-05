@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: It's not enough to look great
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Your Váyu pack meets you at the intersection of style and function so you can have one pack to support a healthy, active, and Adventurous life.
