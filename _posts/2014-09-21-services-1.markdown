@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: city-1209017_1280.jpg
 category: Services
 title: From your <br> &nbsp;&nbsp;&nbsp;&nbsp; <b style="font-style:italic;">- Daily Life</b>
 description: |

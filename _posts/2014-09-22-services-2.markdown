@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: hiker-1149898_1280.jpg
 category: Services
 title: To your <br> &nbsp;&nbsp;&nbsp;&nbsp; <b style="font-style:italic;">- Adventurous Life</b>
 description: |

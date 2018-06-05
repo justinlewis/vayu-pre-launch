@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: couple-1838940_1280.jpg
 category: Services
 title: It's not enough to look great
 description: |
