@@ -5,4 +5,4 @@ category: Services
 title: From your <br> &nbsp;&nbsp;&nbsp;&nbsp; <b style="font-style:italic;">- Daily Life</b>
 description: |
 ---
-  Váyu packs stand out in a crowd while hauling what you need.
+  Vāyu packs stand out in a crowd while hauling what you need.

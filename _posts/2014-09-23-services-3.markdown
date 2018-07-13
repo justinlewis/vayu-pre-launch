@@ -5,4 +5,4 @@ category: Services
 title: It's not enough to look great
 description: |
 ---
-Your Váyu pack meets you at the intersection of style and function so you can have one pack to support a healthy, active, and Adventurous life.
+Your Vāyu pack meets you at the intersection of style and function so you can have one pack to support a healthy, active, and Adventurous life.

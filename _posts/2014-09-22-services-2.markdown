@@ -5,4 +5,4 @@ category: Services
 title: To your <br> &nbsp;&nbsp;&nbsp;&nbsp; <b style="font-style:italic;">- Adventurous Life</b>
 description: |
 ---
-  Váyu packs take you to those special places from neighborhood parks to rugged after work adventures.
+  Vāyu packs take you to those special places from neighborhood parks to rugged after work adventures.
