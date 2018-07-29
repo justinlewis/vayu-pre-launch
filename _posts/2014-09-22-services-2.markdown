@@ -1,8 +1,8 @@
 ---
 layout: default
-img: hiker-1149898_1280.jpg
+img: sam-adventure.jpg
 category: Services
-title: To your <br> &nbsp;&nbsp;&nbsp;&nbsp; <b style="font-style:italic;">- Adventurous Life</b>
+title: To your <br> &nbsp;&nbsp;&nbsp;&nbsp; <b style="font-style:italic;">- Most Adventurous Life</b>
 description: |
 ---
-  Vāyu packs take you to those special places from neighborhood parks to rugged after work adventures.
+  Vāyu packs keep up with you on rugged after work adventures.

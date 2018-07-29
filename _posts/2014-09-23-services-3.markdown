@@ -1,8 +1,8 @@
 ---
 layout: default
-img: couple-1838940_1280.jpg
+img: picnic-1208229_1920.jpg
 category: Services
-title: It's not enough to look great
+title: And everywhere in between
 description: |
 ---
-Your Vāyu pack meets you at the intersection of style and function so you can have one pack to support a healthy, active, and Adventurous life.
+Your Vāyu pack meets you at the intersection of style and function so you can have one pack to support a healthy, active, and adventurous life.
